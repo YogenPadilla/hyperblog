@@ -21,8 +21,16 @@ body
     font-size: 20px;
 }
 
+<<<<<<< HEAD
 #post h1
 {
     font-size: 40px;
     color: blue;
+=======
+#footer 
+{
+    background-color: aqua;
+    color: blue;
+    font-size: 50px;
+>>>>>>> footer
 }
